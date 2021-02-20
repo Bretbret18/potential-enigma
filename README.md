@@ -1,17 +1,15 @@
-# run buddy
-![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Run Buddy
+
 
 ## Description
 
-html and css project
+Run Buddy is an HTML and CSS application
 
 ## Table of Contents 
 
 * [Installation](#installation)
 
 * [Usage](#usage)
-
-* [License](#license)
 
 * [Contributing](#contributing)
 
@@ -29,15 +27,13 @@ npm i
 
 ## Usage
 
-n/a
+clone code
 
-## License
 
-This project is licensed under the MIT license.
   
 ## Contributing
 
-n/a
+
 
 ## Tests
 
